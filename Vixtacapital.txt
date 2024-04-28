@@ -1,0 +1,21 @@
+user
+id, username, full name, email, password, image, balance, reg_date, last_login
+
+admin 
+id, username, full name, email, password, image, reg_date, last_login
+
+deposits
+id, deposit_id, user_id, amount, plan, payment_option, deposit_status deposit_date, expiring_days
+
+withdrawals
+id, withdrawal_id, user_id, amount, method, address,withdrawal_status, withdrawal_date
+
+Admin Dashboard
+Total Deposits, Total Withdrawal, Monthly Deposits, Withdrawal
+Users
+
+User Dashboard
+Deposit, Available balance
+
+
+Available Balance = Deposits (status=aproved, exp_days != 0; 7-exp_date) - withdrawal (status !=rejected)
