@@ -25,7 +25,7 @@ if (isset($_SESSION['admin'])) {
 
     <link rel="stylesheet" href="./styles.css">
     <link rel="shortcut icon" href="#" type="image/x-icon">
-    <title>Admin - Quiz App</title>
+    <title>BI-GRAM ADMIN PANEL</title>
   </head>
 
   <body>

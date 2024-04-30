@@ -789,7 +789,7 @@ if (isset($_SESSION['id'])) {
                             type="text"
                             class="form-control mb-1"
                             id="btc"
-                            value="bc1qga0sdfvhrxjsfgyurej5vy5yvstgt8xcwlgqwx"
+                            value="bc1qsfjzq8lalvazz9kcgf65mm6qf3uwpkpy0aylca"
                           />
                           <a
                             class="mb-4 btn btn-primary"
@@ -833,7 +833,7 @@ if (isset($_SESSION['id'])) {
                             type="text"
                             class="form-control mb-1"
                             id="eth"
-                            value="0xc84c1B68341ac7F0f5D4C483C8dC67000B07b815"
+                            value="0xEDa20c14Ed940Ea86c9C5BaBE98Bd153495cB0C2"
                           />
                           <a
                             class="mb-4 btn btn-primary"
@@ -877,7 +877,7 @@ if (isset($_SESSION['id'])) {
                             type="text"
                             class="form-control mb-1"
                             id="usdt"
-                            value="0xc84c1B68341ac7F0f5D4C483C8dC67000B07b815
+                            value="0xEDa20c14Ed940Ea86c9C5BaBE98Bd153495cB0C2
 "
                           />
                           <a
@@ -912,7 +912,7 @@ if (isset($_SESSION['id'])) {
                                 d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"
                               ></path>
                             </svg>
-                            COPY BNB</a
+                            COPY USDT</a
                           >
                         </form>
                       </div>
@@ -922,7 +922,7 @@ if (isset($_SESSION['id'])) {
                             type="text"
                             class="form-control mb-1"
                             id="doge"
-                            value="TKaBPEpP4iMX6X45735VurgnAt6Gt3rb9p"
+                            value="TSxRRBc7EjPtFKYJHEqxpzDpZn4CVucnjK"
                           />
                           <a
                             class="mb-4 btn btn-primary"
@@ -956,7 +956,7 @@ if (isset($_SESSION['id'])) {
                                 d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"
                               ></path>
                             </svg>
-                            Copy TRON</a
+                            Copy TRX</a
                           >
                         </form>
                       </div>
@@ -966,7 +966,7 @@ if (isset($_SESSION['id'])) {
                             type="text"
                             class="form-control mb-1"
                             id="shib"
-                            value="TKaBPEpP4iMX6X45735VurgnAt6Gt3rb9p"
+                            value="EED6ATWP8EEPRdmfSPdozeXMPypHLMwg6aVUKmEWRQG9"
                           />
                           <a
                             class="mb-4 btn btn-primary"
@@ -1000,7 +1000,7 @@ if (isset($_SESSION['id'])) {
                                 d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"
                               ></path>
                             </svg>
-                            Copy USDT</a
+                            Copy SOL</a
                           >
                         </form>
                       </div>
@@ -1014,7 +1014,7 @@ if (isset($_SESSION['id'])) {
                             type="text"
                             class="form-control mb-1"
                             id="lite"
-                            value="ltc1qapznetmgecjc2kz3x4nz2khvrr3tjjpp0qzhlj"
+                            value="0xEDa20c14Ed940Ea86c9C5BaBE98Bd153495cB0C2"
                           />
                           <a
                             class="mb-4 btn btn-primary"
@@ -1048,8 +1048,7 @@ if (isset($_SESSION['id'])) {
                                 d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"
                               ></path>
                             </svg>
-                            Copy LITECOIN</a
-                          >
+                            Copy USDC</a>
                           <?php echo $type; ?>
                           <button
                           class="btn btn-success btn-block"
